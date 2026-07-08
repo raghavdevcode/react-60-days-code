@@ -1,8 +1,8 @@
 function App() {
   return (
     <>
-      <h1>React Series - Day 3 🚀</h1>
-      <p>Clean React Project</p>
+      <h1>React Series - Day 1 🚀</h1>
+      <p>Create React App</p>
     </>
   );
 }
