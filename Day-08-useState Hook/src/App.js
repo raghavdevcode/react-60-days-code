@@ -7,7 +7,7 @@ function App() {
       <h1>useState</h1>
       <h2>Count : {count}</h2>
        <button onClick={()=>setCount(count+1)}>
-        Count</button>
+        Increase</button>
     </div>
   );
 }
